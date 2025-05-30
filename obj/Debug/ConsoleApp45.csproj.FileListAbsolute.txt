@@ -1,0 +1,7 @@
+E:\215\belko and lynnik\ConsoleApp45\bin\Debug\ConsoleApp45.exe.config
+E:\215\belko and lynnik\ConsoleApp45\bin\Debug\ConsoleApp45.exe
+E:\215\belko and lynnik\ConsoleApp45\bin\Debug\ConsoleApp45.pdb
+E:\215\belko and lynnik\ConsoleApp45\obj\Debug\ConsoleApp45.csproj.AssemblyReference.cache
+E:\215\belko and lynnik\ConsoleApp45\obj\Debug\ConsoleApp45.csproj.CoreCompileInputs.cache
+E:\215\belko and lynnik\ConsoleApp45\obj\Debug\ConsoleApp45.exe
+E:\215\belko and lynnik\ConsoleApp45\obj\Debug\ConsoleApp45.pdb
